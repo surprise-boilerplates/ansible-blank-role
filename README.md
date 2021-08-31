@@ -1,0 +1,1 @@
+# ansible-blank-role
